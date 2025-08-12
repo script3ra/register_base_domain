@@ -13,7 +13,7 @@
 
 ## Установка
 
-0. Установите **python 3.11+** с https://www.python.org/downloads/
+0. Установите ** python 3.11+ ** с https://www.python.org/downloads/
 1. Клонируйте репозиторий
 2. Установите зависимости:
 ```bash
